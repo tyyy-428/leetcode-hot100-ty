@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="共同节点（链表）.c" />
     <ClCompile Include="二维数组的二分查找.c" />
+    <ClCompile Include="括号有效性（栈）.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
