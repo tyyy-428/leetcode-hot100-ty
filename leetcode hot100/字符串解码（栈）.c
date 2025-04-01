@@ -90,4 +90,5 @@ char* decodeString(char* s) {
     //返回的是字符串，'\0'是字符串结束的标志
     *rear = '\0';
     return result;
+
 }
