@@ -27,5 +27,14 @@
     <ClCompile Include="字符串解码（栈）.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="快慢指针（链表）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="反转链表（链表）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回文链表（链表）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
