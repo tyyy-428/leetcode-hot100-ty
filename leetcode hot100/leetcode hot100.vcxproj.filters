@@ -36,5 +36,8 @@
     <ClCompile Include="回文链表（链表）.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="环形指针（链表）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
