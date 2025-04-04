@@ -130,11 +130,13 @@
     <ClCompile Include="共同节点（链表）.c" />
     <ClCompile Include="二维数组的二分查找.c" />
     <ClCompile Include="反转链表（链表）.c" />
+    <ClCompile Include="合并两个链表（链表）.c" />
     <ClCompile Include="回文链表（链表）.c" />
     <ClCompile Include="字符串解码（栈）.c" />
     <ClCompile Include="快慢指针（链表）.c" />
     <ClCompile Include="括号有效性（栈）.c" />
     <ClCompile Include="环形指针（链表）.c" />
+    <ClCompile Include="颜色排序（冒泡排序）.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
