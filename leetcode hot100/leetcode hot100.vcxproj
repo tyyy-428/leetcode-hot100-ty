@@ -131,6 +131,7 @@
     <ClCompile Include="二维数组的二分查找.c" />
     <ClCompile Include="反转链表（链表）.c" />
     <ClCompile Include="合并两个链表（链表）.c" />
+    <ClCompile Include="合并数组（数组，指针）.c" />
     <ClCompile Include="回文链表（链表）.c" />
     <ClCompile Include="字符串解码（栈）.c" />
     <ClCompile Include="快慢指针（链表）.c" />
