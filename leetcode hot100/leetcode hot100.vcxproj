@@ -137,6 +137,7 @@
     <ClCompile Include="快慢指针（链表）.c" />
     <ClCompile Include="括号有效性（栈）.c" />
     <ClCompile Include="环形指针（链表）.c" />
+    <ClCompile Include="环形链表II（快慢指针）.c" />
     <ClCompile Include="颜色排序（冒泡排序）.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
