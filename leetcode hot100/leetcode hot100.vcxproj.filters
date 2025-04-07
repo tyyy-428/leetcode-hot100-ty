@@ -60,5 +60,14 @@
     <ClCompile Include="回文字符串判断（内置函数）.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最小序列长度（滑动窗口）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="乘积小于k的子数组（滑动窗口）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="无重复字符的最长子序列（滑动窗口，哈希表）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
