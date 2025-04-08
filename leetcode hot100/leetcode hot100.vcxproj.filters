@@ -69,5 +69,11 @@
     <ClCompile Include="无重复字符的最长子序列（滑动窗口，哈希表）.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最长连续序列（哈希表）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字母异位词分组（哈希表）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

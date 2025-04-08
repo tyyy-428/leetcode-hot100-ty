@@ -137,11 +137,13 @@
     <ClCompile Include="合并数组（数组，指针）.c" />
     <ClCompile Include="回文字符串判断（内置函数）.c" />
     <ClCompile Include="回文链表（链表）.c" />
+    <ClCompile Include="字母异位词分组（哈希表）.c" />
     <ClCompile Include="字符串解码（栈）.c" />
     <ClCompile Include="快慢指针（链表）.c" />
     <ClCompile Include="括号有效性（栈）.c" />
     <ClCompile Include="无重复字符的最长子序列（滑动窗口，哈希表）.c" />
     <ClCompile Include="最小序列长度（滑动窗口）.c" />
+    <ClCompile Include="最长连续序列（哈希表）.c" />
     <ClCompile Include="环形指针（链表）.c" />
     <ClCompile Include="环形链表II（快慢指针）.c" />
     <ClCompile Include="颜色排序（冒泡排序）.c" />
