@@ -128,10 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="三数之和（数组，滑动窗口）.c" />
+    <ClCompile Include="两两交换链表中的节点（链表）.c" />
     <ClCompile Include="两数之和II（数组）.c" />
     <ClCompile Include="乘积小于k的子数组（滑动窗口）.c" />
     <ClCompile Include="共同节点（链表）.c" />
     <ClCompile Include="二维数组的二分查找.c" />
+    <ClCompile Include="删除链表中的节点（链表）.c" />
+    <ClCompile Include="删除链表的倒数第n个节点（链表，快慢指针）.c" />
     <ClCompile Include="反转链表（链表）.c" />
     <ClCompile Include="合并两个链表（链表）.c" />
     <ClCompile Include="合并数组（数组，指针）.c" />

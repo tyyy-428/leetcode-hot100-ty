@@ -75,5 +75,14 @@
     <ClCompile Include="字母异位词分组（哈希表）.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="两两交换链表中的节点（链表）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删除链表的倒数第n个节点（链表，快慢指针）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删除链表中的节点（链表）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
